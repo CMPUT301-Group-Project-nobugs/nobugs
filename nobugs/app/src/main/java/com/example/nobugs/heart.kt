@@ -1,4 +1,5 @@
 package com.example.nobugs
 
-class heart {
+class heart(x: Int, y: Int): Shape(x, y) {
+    
 }
