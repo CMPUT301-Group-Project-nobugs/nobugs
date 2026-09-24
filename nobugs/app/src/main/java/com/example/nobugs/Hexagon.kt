@@ -1,4 +1,4 @@
 package com.example.nobugs
 
-class Hexagon {
+class Hexagon : Shape (9, 90) {
 }
